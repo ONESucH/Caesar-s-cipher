@@ -25,3 +25,17 @@
     text-shadow: 4px 12px 1px orange;
     word-break: break-word;
 }
+
+.btn-def {
+    border: none;
+    outline: none;
+    background: #85ff7d;
+    min-width: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .6s;
+}
+
+.btn-def:hover {
+    background: aquamarine;
+}
