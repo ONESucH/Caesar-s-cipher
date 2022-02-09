@@ -61,9 +61,8 @@ function App() {
         <div className="get-data">
           <input type="text" placeholder="Введите слово" ref={inp} onKeyUp={({ target }) => getData(target)} />
         </div>
-        <p>Полученный шифр <span>{shifr}</span></p>
-        <p>Дешифроватор <button>Начать</button>
-          <span>{deshirf}</span></p>
+        <div>Полученный шифр <p>{shifr}</p></div>
+        <div>Дешифроватор <button>Начать</button> <p>{deshirf}</p></div>
       </div>
     </div>
   );

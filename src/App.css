@@ -7,6 +7,7 @@
 
 .wrapper {
     min-width: 50%;
+    max-width: 50%;
 }
 
 .get-data button {
@@ -17,9 +18,10 @@
     width: 100%;
 }
 
-.wrapper p span {
+.wrapper p {
     display: block;
     color: red;
     font-weight: bold;
     text-shadow: 4px 12px 1px orange;
+    word-break: break-word;
 }
