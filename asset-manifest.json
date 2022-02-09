@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Caesar-s-cipher/static/css/main.2c65fcb2.css",
+    "main.js": "/Caesar-s-cipher/static/js/main.e87135f5.js",
+    "static/js/787.5b52a81b.chunk.js": "/Caesar-s-cipher/static/js/787.5b52a81b.chunk.js",
+    "index.html": "/Caesar-s-cipher/index.html",
+    "main.2c65fcb2.css.map": "/Caesar-s-cipher/static/css/main.2c65fcb2.css.map",
+    "main.e87135f5.js.map": "/Caesar-s-cipher/static/js/main.e87135f5.js.map",
+    "787.5b52a81b.chunk.js.map": "/Caesar-s-cipher/static/js/787.5b52a81b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c65fcb2.css",
+    "static/js/main.e87135f5.js"
+  ]
+}
